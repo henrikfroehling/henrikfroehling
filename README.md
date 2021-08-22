@@ -1,7 +1,7 @@
 ## Hi, I'm Henrik 👋
 
 - 🔭 I’m currently working on [polyglot](https://github.com/henrikfroehling/polyglot) and [Trakt.NET](https://github.com/henrikfroehling/Trakt.NET)
-- 🌱 I’m currently learning compiler architectures and syntax analysis
+- 🌱 I'm currently learning compiler architectures, syntax analysis and building apps with Flutter
 - 💬 Ask me about C++, C#, .NET and / or Delphi
 
 ### Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrikfroehling) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/henrikfroehling)
