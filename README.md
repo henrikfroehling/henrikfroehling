@@ -42,3 +42,6 @@
 
 #### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrikfroehling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henrikfroehling&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henrikfroehling&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=henrikfroehling&layout=compact&theme=dark)
