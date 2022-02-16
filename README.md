@@ -1,6 +1,6 @@
 ## Hi, I'm Henrik 👋
 
-- 🔭 I’m currently working on [interlinck](https://github.com/henrikfroehling/interlinck) and [Trakt.NET](https://github.com/henrikfroehling/Trakt.NET)
+- 🔭 I’m currently working on [argos](https://github.com/henrikfroehling/argos) and [Trakt.NET](https://github.com/henrikfroehling/Trakt.NET)
 - 🌱 I'm currently learning compiler architectures, syntax analysis and building apps with Flutter
 - 💬 Ask me about C++, C#, .NET and / or Delphi
 
