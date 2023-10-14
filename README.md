@@ -1,10 +1,10 @@
 ## Hi, I'm Henrik 👋
 
-- 🔭 I’m currently working on [Trakt.NET](https://henrikfroehling.github.io/Trakt.NET)
-- 🌱 I'm currently learning compiler architectures and syntax analysis
-- 💬 Ask me about C++, C#, .NET and / or Delphi
+- C#, C++ and Pascal / Delphi Developer
+- I’m currently working on [Trakt.NET](https://henrikfroehling.github.io/Trakt.NET)
+- I'm currently learning compiler architectures
 
-### Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrikfroehling)
+#### 💬 Ask me about C++, C#, .NET and / or Delphi
 
 #### Languages & Frameworks & Tools
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
