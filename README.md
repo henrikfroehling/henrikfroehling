@@ -1,8 +1,10 @@
 ## Hi, I'm Henrik 👋
 
-- C#, C++ and Pascal / Delphi Developer
+- Software Developer
+- Open Source
+- C#, C/C++, Delphi / Pascal
 - I’m currently working on [Trakt.NET](https://henrikfroehling.github.io/Trakt.NET)
-- I'm currently learning compiler architectures
+- I'm currently learning compiler architectures and performance optimization techniques
 
 #### 💬 Ask me about C++, C#, .NET and / or Delphi
 
