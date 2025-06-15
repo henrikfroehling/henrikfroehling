@@ -3,7 +3,6 @@
 - Software Developer
 - Open Source
 - C#, C/C++, Delphi / Pascal
-- I'm currently learning compiler architectures and performance optimization techniques
 
 #### 💬 Ask me about C++, C#, .NET and / or Delphi
 
@@ -21,10 +20,7 @@
 ![](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrikfroehling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
